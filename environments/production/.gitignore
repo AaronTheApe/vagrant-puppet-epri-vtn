@@ -1,0 +1,7 @@
+.tmp/
+.librarian
+modules/apt
+modules/stdlib
+modules/vcsrepo
+modules/postgresql
+modules/concat
